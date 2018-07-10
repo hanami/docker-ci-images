@@ -1,0 +1,1 @@
+FROM circleci/jruby:9.2.0.0
