@@ -1,1 +1,1 @@
-FROM circleci/jruby:9.2.0.0
+FROM circleci/jruby:9.2.7.0
