@@ -1,1 +1,1 @@
-FROM circleci/ruby:2.4.5
+FROM circleci/ruby:2.4.9
